@@ -1,0 +1,23 @@
+﻿#EXTM3U
+#EXTINF:-1,TV1000
+http://109.171.69.248:81/udp/239.54.5.91:1234
+#EXTINF:-1,TV1000 Action
+http://109.171.69.248:81/udp/239.54.5.111:1234
+#EXTINF:-1,TV1000 Русское кино
+http://109.171.69.248:81/udp/239.54.5.112:1234
+#EXTINF:-1,Viasat Explore
+http://109.171.69.248:81/udp/239.54.5.92:1234
+#EXTINF:-1,Viasat History
+http://109.171.69.248:81/udp/239.54.5.93:1234
+#EXTINF:-1,Viasat Nature
+http://109.171.69.248:81/udp/239.54.5.90:1234
+#EXTINF:-1,Viasat Sport
+http://109.171.69.248:81/udp/239.54.5.94:1234
+#EXTINF:0,Премьера ТВ
+http://wse.planeta-online.tv:1935/live/channel_5/chunklist_w1473577152.m3u8
+#EXTINF:-1,FRESH TV
+http://wse.planeta-online.tv:1935/live/channel_4/index.m3u8
+#EXTINF:-1,Relax.TV
+http://wse.planeta-online.tv:1935/live/channel_3/playlist.m3u8
+#EXTINF:-1,Дайвинг ТВ
+http://wse.planeta-online.tv:1935/live/channel_130/chunklist.m3u8
