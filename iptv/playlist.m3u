@@ -21,3 +21,5 @@ http://wse.planeta-online.tv:1935/live/channel_4/index.m3u8
 http://wse.planeta-online.tv:1935/live/channel_3/playlist.m3u8
 #EXTINF:-1,Дайвинг ТВ
 http://wse.planeta-online.tv:1935/live/channel_130/chunklist.m3u8
+#EXTINF:-1,Любимое.TV
+http://wse.planeta-online.tv:1935/live/channel_6/playlist.m3u8
