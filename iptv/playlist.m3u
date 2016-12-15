@@ -1,314 +1,287 @@
 ﻿#EXTM3U
-#EXTINF:-1,TV1000
-#EXTGRP:Фильмы
+#EXTINF:-1 group-title="Фильмы",TV1000
 http://109.171.69.248:81/udp/239.54.5.91:1234
-#EXTINF:-1,TV1000 Action
-#EXTGRP:Фильмы
+#EXTINF:-1 group-title="Фильмы",TV1000 Action
 http://109.171.69.248:81/udp/239.54.5.111:1234
-#EXTINF:-1,TV1000 Русское кино
-#EXTGRP:Фильмы
+#EXTINF:-1 group-title="Фильмы",TV1000 Русское кино
 http://109.171.69.248:81/udp/239.54.5.112:1234
-#EXTINF:-1,Viasat Explore
+#EXTINF:-1 group-title="Фильмы",Paramount Comedy HD
+http://109.171.69.248:81/udp/239.54.5.117:1234
+#EXTINF:-1 group-title="Познавательное",Viasat Explore
 http://109.171.69.248:81/udp/239.54.5.92:1234
-#EXTINF:-1,Viasat History
+#EXTINF:-1 group-title="Познавательное",Viasat History
 http://109.171.69.248:81/udp/239.54.5.93:1234
-#EXTINF:-1,Viasat Nature
+#EXTINF:-1 group-title="Познавательное",Viasat Nature
 http://109.171.69.248:81/udp/239.54.5.90:1234
-#EXTINF:-1,Viasat Sport
+#EXTINF:-1 group-title="Спорт",Viasat Sport
 http://109.171.69.248:81/udp/239.54.5.94:1234
-#EXTINF:-1,Da Vinci
+#EXTINF:-1 group-title="Познавательное",Da Vinci
 http://109.171.69.248:81/udp/239.54.5.95:1234
-#EXTINF:-1,Paramount Comedy HD
-#EXTGRP:Фильмы
-http://109.171.69.248:81/udp/239.54.5.117:1234
-#EXTINF:-1,MTV HD
+#EXTINF:-1 group-title="Развлекательные",MTV HD
 http://109.171.69.248:81/udp/239.54.5.118:1234
-#EXTINF:-1,МИР HD
+#EXTINF:-1 group-title="Общее",МИР HD
 http://109.171.69.248:81/udp/239.54.5.133:1234
-#EXTINF:-1,ТНТ
+#EXTINF:-1 group-title="Общее",ТНТ
 http://109.171.69.248:81/udp/239.54.5.134:1234
-#EXTINF:-1,СТС Мир
+#EXTINF:-1 group-title="Общее",СТС Мир
 http://109.171.69.248:81/udp/239.54.5.170:1234
-#EXTINF:-1,СТС
+#EXTINF:-1 group-title="Общее",СТС
 http://109.171.69.248:81/udp/239.54.5.235:1234
-#EXTINF:-1,Первый
+#EXTINF:-1 group-title="Общее",Первый
 http://109.171.69.248:81/udp/239.0.12.35:1224
-#EXTINF:-1,Первый HD
+#EXTINF:-1 group-title="Общее",Первый HD
 http://109.171.69.248:81/udp/239.54.5.61:1224
-#EXTINF:-1,Россия HD
+#EXTINF:-1 group-title="Общее",Россия HD
 http://109.171.69.248:81/udp/239.54.7.119:1224
-#EXTINF:-1,Россия 1
+#EXTINF:-1 group-title="Общее",Россия 1
 http://109.171.69.248:81/udp/239.54.5.116:1224
-#EXTINF:-1,Россия 1 НСК
+#EXTINF:-1 group-title="Общее",Россия 1 НСК
 http://109.171.69.248:81/udp/239.0.12.40:1224
-#EXTINF:-1,Культура
+#EXTINF:-1 group-title="Общее",Культура
 http://109.171.69.248:81/udp/239.54.5.83:1224
-#EXTINF:-1,ТВ3 (+1 час)
+#EXTINF:-1 group-title="Общее",ТВ3 (+1 час)
 http://109.171.69.248:81/udp/239.54.5.86:1224
-#EXTINF:-1,ТВ3
+#EXTINF:-1 group-title="Общее",ТВ3
 http://109.171.69.248:81/udp/239.54.5.121:1224
-#EXTINF:-1,РЕН
+#EXTINF:-1 group-title="Общее",РЕН
 http://109.171.69.248:81/udp/239.54.5.62:1224
-#EXTINF:-1,РЕН НСК
+#EXTINF:-1 group-title="Общее",РЕН НСК
 http://109.171.69.248:81/udp/239.0.12.36:1224
-#EXTINF:-1,Звезда
+#EXTINF:-1 group-title="Общее",Звезда
 http://109.171.69.248:81/udp/239.54.5.17:1224
-#EXTINF:-1,Пятый канал
+#EXTINF:-1 group-title="Общее",Пятый канал
 http://109.171.69.248:81/udp/239.54.5.82:1224
-#EXTINF:-1,Пятый канал НСК
-http://109.171.69.248:81/udp/239.0.12.35:1224
-#EXTINF:-1,Восьмой канал
+#EXTINF:-1 group-title="Общее",Восьмой канал
 http://109.171.69.248:81/udp/239.54.5.182:1224
-#EXTINF:-1,Восьмой канал НСК
+#EXTINF:-1 group-title="Общее",Восьмой канал НСК
 http://109.171.69.248:81/udp/239.54.5.188:1224
-#EXTINF:-1,НТВ
+#EXTINF:-1 group-title="Общее",НТВ
 http://109.171.69.248:81/udp/239.54.5.114:1224
-#EXTINF:-1,Домашний
+#EXTINF:-1 group-title="Общее",Домашний
 http://109.171.69.248:81/udp/239.54.5.100:1224
-#EXTINF:-1,Домашний НСК
+#EXTINF:-1 group-title="Общее",Домашний НСК
 http://109.171.69.248:81/udp/239.0.12.31:1224
-#EXTINF:-1,ОТР
+#EXTINF:-1 group-title="Общее",ОТР
 http://109.171.69.248:81/udp/239.54.5.146:1224
-#EXTINF:-1,ТВ Центр
+#EXTINF:-1 group-title="Общее",ТВ Центр
 http://109.171.69.248:81/udp/239.54.5.63:1224
-#EXTINF:-1,ТВ Центр НСК
+#EXTINF:-1 group-title="Общее",ТВ Центр НСК
 http://109.171.69.248:81/udp/239.0.12.33:1224
-#EXTINF:-1,ОТС
+#EXTINF:-1 group-title="Общее",ОТС
 http://109.171.69.248:81/udp/239.0.12.32:1224
-#EXTINF:-1,НСК 49
+#EXTINF:-1 group-title="Общее",НСК 49
 http://109.171.69.248:81/udp/239.54.5.222:1224
-#EXTINF:-1,Катунь 24 Барнаул
+#EXTINF:-1 group-title="Общее",Катунь 24 Барнаул
 http://109.171.69.248:81/udp/239.54.5.147:1224
-#EXTINF:-1,Беларусь 24
+#EXTINF:-1 group-title="Общее",Беларусь 24
 http://109.171.69.248:81/udp/239.54.5.175:1224
-#EXTINF:-1,Россия 24
+#EXTINF:-1 group-title="Новости",Россия 24
 http://109.171.69.248:81/udp/239.54.5.12:1224
-#EXTINF:-1,Россия 24 НСК
+#EXTINF:-1 group-title="Новости",Россия 24 НСК
 http://109.171.69.248:81/udp/239.0.12.48:1224
-#EXTINF:-1,L!FE NEWS
+#EXTINF:-1 group-title="Новости",L!FE NEWS
 http://109.171.69.248:81/udp/239.54.5.160:1224
-#EXTINF:-1,Euronews
+#EXTINF:-1 group-title="Новости",Euronews
 http://109.171.69.248:81/udp/239.54.5.149:1224
-#EXTINF:-1,РБК
+#EXTINF:-1 group-title="Новости",РБК
 http://109.171.69.248:81/udp/239.54.5.19:1224
-#EXTINF:-1,Мир
+#EXTINF:-1 group-title="Общее",Мир
 http://109.171.69.248:81/udp/239.54.5.22:1224
-#EXTINF:-1,Мир HD
-http://109.171.69.248:81/udp/239.54.5.133:1234
-#EXTINF:-1,Раз ТВ
+#EXTINF:-1 group-title="Общее",Раз ТВ
 http://109.171.69.248:81/udp/239.54.5.43:1224
-#EXTINF:-1,ТРО Союза
+#EXTINF:-1 group-title="Общее",ТРО Союза
 http://109.171.69.248:81/udp/239.54.5.24:1224
-#EXTINF:-1,Russia Today
+#EXTINF:-1 group-title="Новости",Russia Today
 http://109.171.69.248:81/udp/239.54.7.99:1224
-#EXTINF:-1,Discovery HD
+#EXTINF:-1 group-title="Познавательное",Discovery HD
 http://109.171.69.248:81/udp/239.54.7.86:1224
-#EXTINF:-1,Наука 2.0
+#EXTINF:-1 group-title="Музыкальные",Наука 2.0
 http://109.171.69.248:81/udp/239.54.7.51:1224
-#EXTINF:-1,24 Техно
+#EXTINF:-1 group-title="Познавательное",24 Техно
 http://109.171.69.248:81/udp/239.54.7.56:1224
-#EXTINF:-1,Viasat Explore
-http://109.171.69.248:81/udp/239.54.5.92:1234
-#EXTINF:-1,Моя планета
+#EXTINF:-1 group-title="Познавательное",Моя планета
 http://109.171.69.248:81/udp/239.54.7.53:1224
-#EXTINF:-1,Планета HD
+#EXTINF:-1 group-title="Познавательное",Планета HD
 http://109.171.69.248:81/udp/239.54.7.170:1224
-#EXTINF:-1,Живая планета
+#EXTINF:-1 group-title="Познавательное",Живая планета
 http://109.171.69.248:81/udp/239.54.5.166:1224
-#EXTINF:-1,ZOO парк
+#EXTINF:-1 group-title="Познавательное",ZOO парк
 http://109.171.69.248:81/udp/239.54.7.163:1224
-#EXTINF:-1,Animal Planet HD
+#EXTINF:-1 group-title="Познавательное",Animal Planet HD
 http://109.171.69.248:81/udp/239.54.7.94:1224
-#EXTINF:-1,Viasat Nature
-http://109.171.69.248:81/udp/239.54.5.90:1234
-#EXTINF:-1,Da Vinci Learning
-http://109.171.69.248:81/udp/239.54.5.95:1234
-#EXTINF:-1,24 DOC
+#EXTINF:-1 group-title="Фильмы",24 DOC
 http://109.171.69.248:81/udp/239.54.7.104:1224
-#EXTINF:-1,Страна
+#EXTINF:-1 group-title="Познавательное",Страна
 http://109.171.69.248:81/udp/239.54.5.73:1224
-#EXTINF:-1,История
+#EXTINF:-1 group-title="Познавательное",История
 http://109.171.69.248:81/udp/239.54.7.151:1224
-#EXTINF:-1,365 дней
+#EXTINF:-1 group-title="Познавательное",365 дней
 http://109.171.69.248:81/udp/239.54.7.70:1224
-#EXTINF:-1,Life HD
+#EXTINF:-1 group-title="Познавательное",Life HD
 http://109.171.69.248:81/udp/239.54.7.140:1224
-#EXTINF:-1,Успех
+#EXTINF:-1 group-title="Познавательное",Успех
 http://109.171.69.248:81/udp/239.54.5.128:1224
-#EXTINF:-1,ПРО БИЗНЕС
+#EXTINF:-1 group-title="Познавательное",ПРО БИЗНЕС
 http://109.171.69.248:81/udp/239.54.5.167:1224
-#EXTINF:-1,РЖД тв
+#EXTINF:-1 group-title="Познавательное",РЖД тв
 http://109.171.69.248:81/udp/239.54.5.30:1224
-#EXTINF:-1,Russian Travel Guide
+#EXTINF:-1 group-title="Познавательное",Russian Travel Guide
 http://109.171.69.248:81/udp/239.54.7.8:1224
-#EXTINF:-1,Первый образовательный
+#EXTINF:-1 group-title="Познавательное",Первый образовательный
 http://109.171.69.248:81/udp/239.54.5.64:1224
-#EXTINF:-1,Мульт
+#EXTINF:-1 group-title="Мультфильмы",Мульт
 http://109.171.69.248:81/udp/239.54.7.155:1224
-#EXTINF:-1,Карусель
+#EXTINF:-1 group-title="Мультфильмы",Карусель
 http://109.171.69.248:81/udp/239.54.5.35:1224
-#EXTINF:-1,Мама
+#EXTINF:-1 group-title="Мультфильмы",Мама
 http://109.171.69.248:81/udp/239.54.5.44:1224
-#EXTINF:-1,Disney Channel
+#EXTINF:-1 group-title="Мультфильмы",Disney Channel
 http://109.171.69.248:81/udp/239.54.5.67:1224
-#EXTINF:-1,Nickelodeon
+#EXTINF:-1 group-title="Мультфильмы",Nickelodeon
 http://109.171.69.248:81/udp/239.54.7.69:1224
-#EXTINF:-1,Nick Jr
+#EXTINF:-1 group-title="Мультфильмы",Nick Jr
 http://109.171.69.248:81/udp/239.54.7.5:1224
-#EXTINF:-1,Мульти мания
+#EXTINF:-1 group-title="Мультфильмы",Мульти мания
 http://109.171.69.248:81/udp/239.54.5.158:1224
-#EXTINF:-1,Детский мир
+#EXTINF:-1 group-title="Мультфильмы",Детский мир
 http://109.171.69.248:81/udp/239.54.5.97:1224
-#EXTINF:-1,Детский
+#EXTINF:-1 group-title="Мультфильмы",Детский
 http://109.171.69.248:81/udp/239.54.5.127:1224
-#EXTINF:-1,Радость моя
+#EXTINF:-1 group-title="Познавательное",Радость моя
 http://109.171.69.248:81/udp/239.54.5.66:1224
-#EXTINF:-1,ТНТ 4
+#EXTINF:-1 group-title="Общее",ТНТ 4
 http://109.171.69.248:81/udp/239.54.7.36:1224
-#EXTINF:-1,Paramount Comedy HD
-http://109.171.69.248:81/udp/239.54.5.117:1234
-#EXTINF:-1,Пятница!
+#EXTINF:-1 group-title="Развлекательные",Пятница!
 http://109.171.69.248:81/udp/239.54.5.65:1224
-#EXTINF:-1,Сарафан
+#EXTINF:-1 group-title="Развлекательные",Сарафан
 http://109.171.69.248:81/udp/239.54.7.129:1224
-#EXTINF:-1,2х2
+#EXTINF:-1 group-title="Мультфильмы",2х2
 http://109.171.69.248:81/udp/239.54.5.20:1224
-#EXTINF:-1,Юмор ТВ
+#EXTINF:-1 group-title="Развлекательные",Юмор ТВ
 http://109.171.69.248:81/udp/239.54.5.5:1224
-#EXTINF:-1,СТС НСК
+#EXTINF:-1 group-title="Общее",СТС НСК
 http://109.171.69.248:81/udp/239.0.12.44:1224
-#EXTINF:-1,СТС Кемерово
-http://109.171.69.248:81/udp/239.54.5.235:1234
-#EXTINF:-1,ТНТ
-http://109.171.69.248:81/udp/239.54.5.134:1234
-#EXTINF:-1,ТНТ НСК
+#EXTINF:-1 group-title="Общее",ТНТ НСК
 http://109.171.69.248:81/udp/239.0.12.39:1224
-#EXTINF:-1,Ретро ТВ
+#EXTINF:-1 group-title="Общее",Ретро ТВ
 http://109.171.69.248:81/udp/239.54.7.29:1224
-#EXTINF:-1,Че
+#EXTINF:-1 group-title="Развлекательные",Че
 http://109.171.69.248:81/udp/239.54.5.4:1224
-#EXTINF:-1,ПАРК развлечений
+#EXTINF:-1 group-title="Развлекательные",ПАРК развлечений
 http://109.171.69.248:81/udp/239.54.7.164:1224
-#EXTINF:-1,Russian Music BOX
+#EXTINF:-1 group-title="Музыкальные",Russian Music BOX
 http://109.171.69.248:81/udp/239.54.5.6:1224
-#EXTINF:-1,Music Box
+#EXTINF:-1 group-title="Музыкальные",Music Box
 http://109.171.69.248:81/udp/239.54.5.7:1224
-#EXTINF:-1,BridgeTV
+#EXTINF:-1 group-title="Музыкальные",BridgeTV
 http://109.171.69.248:81/udp/239.54.5.9:1224
-#EXTINF:-1,VH1 classic
+#EXTINF:-1 group-title="Музыкальные",VH1 classic
 http://109.171.69.248:81/udp/239.54.7.4:1224
-#EXTINF:-1,RUTV
+#EXTINF:-1 group-title="Музыкальные",RUTV
 http://109.171.69.248:81/udp/239.54.5.15:1224
-#EXTINF:-1,A-One
+#EXTINF:-1 group-title="Музыкальные",A-One
 http://109.171.69.248:81/udp/239.54.5.39:1224
-#EXTINF:-1,Шансон ТВ
+#EXTINF:-1 group-title="Музыкальные",Шансон ТВ
 http://109.171.69.248:81/udp/239.54.7.11:1224
-#EXTINF:-1,Европа+ ТВ
+#EXTINF:-1 group-title="Музыкальные",Европа+ ТВ
 http://109.171.69.248:81/udp/239.54.5.88:1224
-#EXTINF:-1,МузТВ
+#EXTINF:-1 group-title="Музыкальные",МузТВ
 http://109.171.69.248:81/udp/239.54.5.142:1224
-#EXTINF:-1,MTV
+#EXTINF:-1 group-title="Музыкальные",MTV
 http://109.171.69.248:81/udp/239.54.5.85:1224
-#EXTINF:-1,MTV HD
-http://109.171.69.248:81/udp/239.54.5.118:1234
-#EXTINF:-1,MTV Rocks
+#EXTINF:-1 group-title="Музыкальные",MTV Rocks
 http://109.171.69.248:81/udp/239.54.7.3:1224
-#EXTINF:-1,Мужское кино
+#EXTINF:-1 group-title="Фильмы",Мужское кино
 http://109.171.69.248:81/udp/239.54.7.1:1224
-#EXTINF:-1,Русский бестселлер
+#EXTINF:-1 group-title="Фильмы",Русский бестселлер
 http://109.171.69.248:81/udp/239.54.7.33:1224
-#EXTINF:-1,Русский детектив
+#EXTINF:-1 group-title="Фильмы",Русский детектив
 http://109.171.69.248:81/udp/239.54.7.32:1224
-#EXTINF:-1,Русский Роман
+#EXTINF:-1 group-title="Фильмы",Русский Роман
 http://109.171.69.248:81/udp/239.54.5.87:1224
-#EXTINF:-1,Русский иллюзион
+#EXTINF:-1 group-title="Фильмы",Русский иллюзион
 http://109.171.69.248:81/udp/239.54.7.161:1224
-#EXTINF:-1,Иллюзион плюс
+#EXTINF:-1 group-title="Фильмы",Иллюзион плюс
 http://109.171.69.248:81/udp/239.54.7.162:1224
-#EXTINF:-1,Кино ТВ
+#EXTINF:-1 group-title="Фильмы",Кино ТВ
 http://109.171.69.248:81/udp/239.54.7.102:1224
-#EXTINF:-1,Индия ТВ
+#EXTINF:-1 group-title="Фильмы",Индия ТВ
 http://109.171.69.248:81/udp/239.54.7.154:1224
-#EXTINF:-1,Русское кино TV 1000
-http://109.171.69.248:81/udp/239.54.5.112:1234
-#EXTINF:-1,Action TV 1000
-http://109.171.69.248:81/udp/239.54.5.111:1234
-#EXTINF:-1,Sony ТВ
+#EXTINF:-1 group-title="Фильмы",Sony ТВ
 http://109.171.69.248:81/udp/239.54.7.47:1224
-#EXTINF:-1,Sony HD
+#EXTINF:-1 group-title="Фильмы",Sony HD
 http://109.171.69.248:81/udp/239.54.7.128:1224
-#EXTINF:-1,Sony SCI-FI
+#EXTINF:-1 group-title="Фильмы",Sony SCI-FI
 http://109.171.69.248:81/udp/239.54.7.50:1224
-#EXTINF:-1,НСТ
+#EXTINF:-1 group-title="Общее",НСТ
 http://109.171.69.248:81/udp/239.54.7.58:1224
-#EXTINF:-1,КХЛ ТВ
+#EXTINF:-1 group-title="Спорт",КХЛ ТВ
 http://109.171.69.248:81/udp/239.54.7.42:1224
-#EXTINF:-1,КХЛ HD
+#EXTINF:-1 group-title="Спорт",КХЛ HD
 http://109.171.69.248:81/udp/239.54.7.125:1224
-#EXTINF:-1,Матч ТВ
+#EXTINF:-1 group-title="Спорт",Матч ТВ
 http://109.171.69.248:81/udp/239.54.5.148:1224
-#EXTINF:-1,Матч ТВ HD
+#EXTINF:-1 group-title="Спорт",Матч ТВ HD
 http://109.171.69.248:81/udp/239.54.7.152:1224
-#EXTINF:-1,АРЕНА
+#EXTINF:-1 group-title="Спорт",АРЕНА
 http://109.171.69.248:81/udp/239.54.7.85:1224
-#EXTINF:-1,Футбол 1
+#EXTINF:-1 group-title="Спорт",Футбол 1
 http://109.171.69.248:81/udp/239.54.7.72:1224
-#EXTINF:-1,Футбол 1 HD
+#EXTINF:-1 group-title="Спорт",Футбол 1 HD
 http://109.171.69.248:81/udp/239.54.7.157:1224
-#EXTINF:-1,телеканал Футбол
+#EXTINF:-1 group-title="Спорт",телеканал Футбол
 http://109.171.69.248:81/udp/239.54.7.153:1224
-#EXTINF:-1,Боец
+#EXTINF:-1 group-title="Спорт",Боец
 http://109.171.69.248:81/udp/239.54.7.21:1224
-#EXTINF:-1,Авто Плюс
+#EXTINF:-1 group-title="Познавательное",Авто Плюс
 http://109.171.69.248:81/udp/239.54.7.37:1224
-#EXTINF:-1,Russian Extreme
+#EXTINF:-1 group-title="Спорт",Russian Extreme
 http://109.171.69.248:81/udp/239.54.7.171:1224
-#EXTINF:-1,EuroSport 1 HD
+#EXTINF:-1 group-title="Спорт",EuroSport 1 HD
 http://109.171.69.248:81/udp/239.54.7.174:1224
-#EXTINF:-1,EuroSport 1
+#EXTINF:-1 group-title="Спорт",EuroSport 1
 http://109.171.69.248:81/udp/239.54.5.45:1224
-#EXTINF:-1,EuroSport 2
+#EXTINF:-1 group-title="Спорт",EuroSport 2
 http://109.171.69.248:81/udp/239.54.7.141:1224
-#EXTINF:-1,Охота и рыбалка
+#EXTINF:-1 group-title="Развлекательные",Охота и рыбалка
 http://109.171.69.248:81/udp/239.54.7.26:1224
-#EXTINF:-1,Ю-ТВ!
+#EXTINF:-1 group-title="Познавательное",Ю-ТВ!
 http://109.171.69.248:81/udp/239.54.5.68:1224
-#EXTINF:-1,TLC
+#EXTINF:-1 group-title="Развлекательные",TLC
 http://109.171.69.248:81/udp/239.54.7.83:1224
-#EXTINF:-1,Усадьба ТВ
+#EXTINF:-1 group-title="Познавательное",Усадьба ТВ
 http://109.171.69.248:81/udp/239.54.5.113:1224
-#EXTINF:-1,Кухня ТВ
+#EXTINF:-1 group-title="Познавательное",Кухня ТВ
 http://109.171.69.248:81/udp/239.54.7.156:1224
-#EXTINF:-1,Живи
+#EXTINF:-1 group-title="Познавательное",Живи
 http://109.171.69.248:81/udp/239.54.5.49:1224
-#EXTINF:-1,Fashion One HD
+#EXTINF:-1 group-title="Развлекательные",Fashion One HD
 http://109.171.69.248:81/udp/239.54.7.101:1224
-#EXTINF:-1,TVmall
+#EXTINF:-1 group-title="Шопинг",TVmall
 http://109.171.69.248:81/udp/239.54.5.131:1224
-#EXTINF:-1,Shopping Live
+#EXTINF:-1 group-title="Шопинг",Shopping Live
 http://109.171.69.248:81/udp/239.54.5.130:1224
-#EXTINF:-1,TVsale
+#EXTINF:-1 group-title="Шопинг",TVsale
 http://109.171.69.248:81/udp/239.54.5.41:1224
-#EXTINF:-1,Shop24
+#EXTINF:-1 group-title="Шопинг",Shop24
 http://109.171.69.248:81/udp/239.54.5.59:1224
-#EXTINF:-1,TopShop TV
+#EXTINF:-1 group-title="Шопинг",TopShop TV
 http://109.171.69.248:81/udp/239.54.5.129:1234
-#EXTINF:-1,Союз
+#EXTINF:-1 group-title="Общее",Союз
 http://109.171.69.248:81/udp/239.54.5.52:1224
-#EXTINF:-1,Спас
+#EXTINF:-1 group-title="Познавательное",Спас
 http://109.171.69.248:81/udp/239.54.5.13:1224
-#EXTINF:-1,ТНВ планета
+#EXTINF:-1 group-title="Общее",ТНВ планета
 http://109.171.69.248:81/udp/239.54.5.23:1224
-#EXTINF:-1,Inter AZ
+#EXTINF:-1 group-title="Общее",Inter AZ
 http://109.171.69.248:81/udp/239.54.5.25:1224
-#EXTINF:0,Премьера ТВ
+#EXTINF:-1 group-title="Фильмы",Премьера ТВ
 http://wse.planeta-online.tv:1935/live/channel_5/chunklist_w1473577152.m3u8
-#EXTINF:-1,FRESH TV
+#EXTINF:-1 group-title="Музыкальные",FRESH TV
 http://wse.planeta-online.tv:1935/live/channel_4/index.m3u8
-#EXTINF:-1,Relax.TV
+#EXTINF:-1 group-title="Музыкальные",Relax.TV
 http://wse.planeta-online.tv:1935/live/channel_3/playlist.m3u8
-#EXTINF:-1,Дайвинг ТВ
+#EXTINF:-1 group-title="Музыкальные",Дайвинг ТВ
 http://wse.planeta-online.tv:1935/live/channel_130/chunklist.m3u8
-#EXTINF:-1,Любимое.TV
+#EXTINF:-1 group-title="Познавательное",Любимое.TV
 http://wse.planeta-online.tv:1935/live/channel_6/playlist.m3u8
-
