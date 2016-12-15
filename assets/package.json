@@ -1,0 +1,12 @@
+{
+  "name": "wmod",
+  "version": "0.0.1",
+  "private": true,
+  "main": "gulpfile.js",
+  "dependencies": {
+    "gulp": "^3.9.0",
+    "gulp-sass": "^2.3.0"
+  },
+  "author": "",
+  "license": "ISC"
+}

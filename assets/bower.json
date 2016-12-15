@@ -1,0 +1,19 @@
+{
+  "name": "gigabiter.github.io",
+  "authors": [
+    "Gigabiter <ansamchik@gmail.com>"
+  ],
+  "description": "",
+  "main": "",
+  "moduleType": [],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "assets"
+  ],
+  "dependencies": {
+    "concise": "~4.0.1",
+    "concise-utils": "~1"
+  }
+}
