@@ -3,17 +3,13 @@
   "authors": [
     "Gigabiter <ansamchik@gmail.com>"
   ],
-  "description": "",
-  "main": "",
-  "moduleType": [],
-  "license": "MIT",
-  "homepage": "",
+  "description": "My personal page project",
   "ignore": [
     "**/.*",
     "assets"
   ],
   "dependencies": {
-    "concise": "~4.0.1",
-    "concise-utils": "~1"
-  }
+    "concise": "~3.3.0"
+  },
+  "private": true
 }
