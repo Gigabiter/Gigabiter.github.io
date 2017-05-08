@@ -435,9 +435,76 @@ http://5.8.51.109:1234/play/fantastikahd?auth=zarin:JHBj4hbt
 #EXTGRP:Юмор
 http://5.8.51.109:1234/play/eralshhd?auth=zarin:JHBj4hbt
 #EXTINF:-1 group-title="Фильмы",СССР ФИЛЬМЫ
-#EXTGRP:СССР ФИЛЬМЫ
+#EXTGRP:Фильмы
 http://5.8.51.109:1234/play/sssr?auth=zarin:JHBj4hbt
 #EXTINF:-1 group-title="Фильмы",СТРАХ HD
-#EXTGRP:СТРАХ HD
+#EXTGRP:Фильмы
 http://5.8.51.109:1234/play/strahhd?auth=zarin:JHBj4hbt
+#EXTINF:-1 group-title="Фильмы",Сказка HD
+#EXTGRP:Фильмы
+http://188.138.9.19:8000/play/skazkat
+#EXTINF:-1 group-title="Фильмы",Кино ТВ HD
+#EXTGRP:Фильмы
+http://188.138.9.19:8000/play/a0vi
+#EXTINF:-1 group-title="Познавательное",Eureka HD
+#EXTGRP:Познавательное
+http://188.138.9.19:8000/play/a0vk
+#EXTINF:-1 group-title="Фильмы",Страшное HD
+#EXTGRP:Фильмы
+http://188.138.9.19:8000/play/a0vy
+#EXTINF:-1 group-title="Фильмы",Кинопоказ
+#EXTGRP:Фильмы
+http://188.138.9.19:8000/play/a0sd
+#EXTINF:-1 group-title="Фильмы",Дом Кино Премиум HD
+#EXTGRP:Фильмы
+http://188.138.9.19:8000/play/a0v9
+#EXTINF:-1 group-title="Фильмы",Paramount
+#EXTGRP:Фильмы
+http://188.138.9.19:8000/play/a0vz
+#EXTINF:-1 group-title="Фильмы",Наш Кинороман HD
+#EXTGRP:Фильмы
+http://188.138.9.19:8000/play/a0v8
+#EXTINF:-1 group-title="Фильмы",Русский роман
+#EXTGRP:Фильмы
+http://188.138.9.19:8000/play/roma0ae5750568
+#EXTINF:-1 group-title="Фильмы",Кинопоказ 2 HD
+#EXTGRP:Фильмы
+http://188.138.9.19:8000/play/a0v2
+#EXTINF:-1 group-title="Фильмы",Русский детектив
+#EXTGRP:Фильмы
+http://188.138.9.19:8000/play/deta0adriyri541m
+#EXTINF:-1 group-title="Фильмы",Кинопоказ HD
+#EXTGRP:Фильмы
+http://188.138.9.19:8000/play/a0v1
+#EXTINF:-1 group-title="Познавательное",Galaxy
+#EXTGRP:Познавательное
+http://188.138.9.19:8000/play/a0ps
+#EXTINF:-1 group-title="Фильмы",Много ТВ
+#EXTGRP:Фильмы
+http://188.138.9.19:8000/play/a0u1
+#EXTINF:-1 group-title="Фильмы",CBS Драма
+#EXTGRP:Фильмы
+http://188.138.9.19:8000/play/a0pm
+#EXTINF:-1 group-title="Мультфильмы",Cartoon Network
+#EXTGRP:Мультфильмы
+http://188.138.9.19:8000/play/a0pn
+#EXTINF:-1 group-title="Фильмы",КиноПремиум HD
+#EXTGRP:Фильмы
+http://188.138.9.19:8000/play/a0v7
+#EXTINF:-1 group-title="Фильмы",Мир сериала
+#EXTGRP:Фильмы
+http://188.138.9.19:8000/play/a0py
+#EXTINF:-1 group-title="Фильмы",Наш Детектив HD
+#EXTGRP:Фильмы
+http://188.138.9.19:8000/play/a0v6
+#EXTINF:-1 group-title="Фильмы",Остросюжетное HD
+#EXTGRP:Фильмы
+http://188.138.9.19:8000/play/a0v5
+#EXTINF:-1 group-title="Фильмы",Cinema
+#EXTGRP:Фильмы
+http://188.138.9.19:8000/play/a0im
+#EXTINF:-1 group-title="Фильмы",Еврокино
+#EXTGRP:Фильмы
+http://188.138.9.19:8000/play/a0ii
+
 
