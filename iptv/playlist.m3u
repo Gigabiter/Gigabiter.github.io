@@ -428,3 +428,16 @@ http://wse.planeta-online.tv:1935/live/channel_130/chunklist.m3u8
 #EXTINF:-1 group-title="Познавательное",Любимое.TV
 #EXTGRP:Познавательное
 http://wse.planeta-online.tv:1935/live/channel_6/playlist.m3u8
+#EXTINF:-1 group-title="Фильмы",ФАНТАСТИКА HD
+#EXTGRP:Фильмы
+http://5.8.51.109:1234/play/fantastikahd?auth=zarin:JHBj4hbt
+#EXTINF:-1 group-title="Юмор",ЕРАЛАШ HD
+#EXTGRP:Юмор
+http://5.8.51.109:1234/play/eralshhd?auth=zarin:JHBj4hbt
+#EXTINF:-1 group-title="Фильмы",СССР ФИЛЬМЫ
+#EXTGRP:СССР ФИЛЬМЫ
+http://5.8.51.109:1234/play/sssr?auth=zarin:JHBj4hbt
+#EXTINF:-1 group-title="Фильмы",СТРАХ HD
+#EXTGRP:СТРАХ HD
+http://5.8.51.109:1234/play/strahhd?auth=zarin:JHBj4hbt
+
